@@ -15,19 +15,19 @@ Task: Need to create an API where anyone can create questions with options and a
 
 ## Required Routes
 * Create Question :-
-``` localhost:8000/api/v1/questions/create/ ```
+``` localhost:3000/api/v1/questions/create/ ```
 
 * Create Option :-
-``` localhost:8000/api/v1/options/:id/options/create/ ```
+``` localhost:3000/api/v1/options/:id/options/create/ ```
 
 * View Question :-
-``` localhost:8000/api/v1/questions/:id/ ```
+``` localhost:3000/api/v1/questions/:id/ ```
 
 * Delete Option :-
-``` localhost:8000/api/v1/options/:id/delete ```
+``` localhost:3000/api/v1/options/:id/delete ```
 
 * Delete Question :-
-``` localhost:8000/api/v1/questions/:id/delete ```
+``` localhost:3000/api/v1/questions/:id/delete ```
 
 ## Folder Structure
 ```
